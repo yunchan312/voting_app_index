@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "864178144829",
+    "firebase_url": "https://voting-test-3e112.firebaseio.com",
+    "project_id": "voting-test-3e112",
+    "storage_bucket": "voting-test-3e112.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:864178144829:android:077385ad1cf8af8d79cc54",
+        "android_client_info": {
+          "package_name": "dart.libmain.votingrenewindex"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "864178144829-v7o8vht81j5d1peulh7v94i810e6g8mn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_trFG2sJMrR5uuWkcMy_t9FVMm24dFKM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "864178144829-v7o8vht81j5d1peulh7v94i810e6g8mn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
